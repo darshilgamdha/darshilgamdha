@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilgamdha&label=Profile%20views&color=0e75b6&style=flat" alt="darshilgamdha" /> </p>
 <h1 align="center">Hi 👋, I'm Darshil Gamdha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/darshilgamdha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshilgamdha" height="30" width="40" /></a>
@@ -15,8 +12,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilgamdha&show_icons=true&locale=en&layout=compact" alt="darshilgamdha" /></p> </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshilgamdha&show_icons=true&locale=en" alt="darshilgamdha" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshilgamdha&show_icons=true&locale=en" alt="darshilgamdha" /></p></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshilgamdha&" alt="darshilgamdha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshilgamdha&" alt="darshilgamdha" /></p></br>
 
 
